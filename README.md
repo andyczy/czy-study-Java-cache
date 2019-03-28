@@ -1,7 +1,7 @@
 ## 学习研究Java缓存
 
 
-![cache](https://raw.githubusercontent.com/feiweiwei/MkCache/master/class-diagram.png)
+![cache](https://github.com/andyczy/czy-study-Java-cache/blob/master/src/main/cache.png)
 
 整个 Cache缓存框架的核心类主要有这么几个，每一层都是面向接口编程这样可以方便的进行后续扩展。              
 
